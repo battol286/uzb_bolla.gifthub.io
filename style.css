@@ -1,0 +1,62 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Set default font for the page */
+}
+
+/* Change the color and font properties of the header */
+h1 {
+    color: #4b0082; /* Indigo color for the header */
+    font-family: 'Arial Black', sans-serif; /* Bold font */
+    font-size: 36px; /* Increase font size */
+    text-align: center; /* Center the text */
+}
+
+/* Change the color of the description paragraph */
+p {
+    color: #2e8b57; /* Sea green color */
+    font-size: 18px; /* Set the font size */
+    line-height: 1.6; /* Increase line height for readability */
+}
+
+/* Style the unordered list (classes list) */
+ul {
+    color: #4682b4; /* Steel blue color for the list text */
+    font-size: 16px;
+}
+
+/* Style the ordered list (favorite shows list) */
+ol {
+    color: #d2691e; /* Chocolate color */
+    font-size: 16px;
+}
+
+/* Style the image elements */
+img {
+    border-radius: 10px; /* Add rounded corners to the images */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* Add a shadow to the images */
+    margin: 10px; /* Add margin around images */
+}
+
+/* Change the background color of the page's links */
+a {
+    color: #00008b; /* Dark blue color for the links */
+    text-decoration: none; /* Remove underline from the links */
+}
+
+a:hover {
+    color: #ff4500; /* Orange color when hovering over links */
+    text-decoration: underline; /* Underline links when hovering */
+}
+
+/* Style the neighbor information text */
+h2 {
+    color: #ff6347; /* Tomato red color */
+    font-size: 24px;
+    text-align: left;
+    font-weight: bold; /* Make the h2 header bold */
+}
+
+/* Add some padding to the whole body */
+body {
+    padding: 20px;
+}
